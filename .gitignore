@@ -1,0 +1,7 @@
+.idea/
+.pytest_cache/
+nyctlc.egg-info/
+
+nyctlc/__pycache__/
+test/__pycache__/
+

@@ -1,5 +1,0 @@
-[
-  "test/test_query.py::test_load_file",
-  "test/test_query.py::test_load_all_files",
-  "test/test_query.py::test_load_all_files_of_type"
-]
