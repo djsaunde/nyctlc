@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: nyctlc
+Version: 0.1
+Summary: Simple Python package for processing NYC's Taxi and Limousine Commission taxi trip records.
+Home-page: https://github.com/djsaunde/nyctlc
+Author: Daniel Saunders
+Author-email: djsaunde@cs.umass.edu
+License: MIT
+Download-URL: https://github.com/Hananel-Hazan/bindsnet/archive/0.1.tar.gz
+Description: =====
+        nyctlc
+        =====
+        
+        A simple Python package for processing New York City\'s Taxi and Limousine Commission taxi and for-hire vehicle trip
+        records.
+        
+        Author
+        *****
+        
+        Dan Saunders (`email <djsaunde@cs.umass.edu>`_ | `webpage <https://djsaunde.github.io>`_)
+        
+Platform: UNKNOWN
+Description-Content-Type: text/x-rst

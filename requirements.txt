@@ -1,0 +1,4 @@
+bs4
+requests
+setuptools>=39.0.1
+dask>=0.18.1
