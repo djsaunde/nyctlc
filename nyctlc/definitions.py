@@ -1,3 +1,14 @@
+import os
+
+from pathlib import Path
+
+
+ROOT_DIR = Path(__file__).parents[0].parents[0]
+DATA_PATH = os.path.join(ROOT_DIR, 'data')
+
+if not os.path.isdir(DATA_PATH):
+    os.makedirs(DATA_PATH)
+
 DATA_URL = 'https://s3.amazonaws.com/nyc-tlc/trip+data/'
 TLC_URL = 'http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml'
 
